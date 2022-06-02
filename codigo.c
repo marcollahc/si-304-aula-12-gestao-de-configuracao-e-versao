@@ -31,5 +31,9 @@ int main () {
     }
 
     printf("%d\n", soma_final);                              //IMPRIME O NÚMERO DE TERMOS PRESENTES NO TRIANGULO
+    printf("\n");
+    printf("Ass: Lucas Peccinin");
     return 0;
+    
+    
 }
